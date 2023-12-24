@@ -271,8 +271,7 @@ The creditor does not have enough balance for the transaction.
 
 The debtor does not have enough balance for the transaction.
 
-If the above does not help or cover the issue you are having with regards to this Solidity Contract I made then please feel free to reach me at 201812805@fit.edu.ph or voltairedvx@gmail.com and I will try to help you as soon as I can.
-
+If the above does not help or cover the issue you are having with regards to this Solidity Contract I made then please feel free to reach me
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
