@@ -257,11 +257,6 @@ In this case, we will be intentionally triggering it through the use of triggerA
 
 3.) Try sending a loan. (Refer to the instructions on how to send a loan found in the IV - Sending a loan section of this readme file.) It should succeed and throw no errors. You can verify this by viewing the balances of the creditor and the debtor you send the loan to by using getCreditorBalance and getDebtorBalance respectively. 
 
-## Code explanation and Contract usage Video Walkthrough
-Below is the video walkthrough on how to use the contract once you already have it compiled and deployed on the Remix IDE:
-https://www.loom.com/share/729d20832a7b4f1c824a6c1f79662c21
-
-
 ## Help
 
 ### Compilation failed
@@ -277,11 +272,6 @@ The creditor does not have enough balance for the transaction.
 The debtor does not have enough balance for the transaction.
 
 If the above does not help or cover the issue you are having with regards to this Solidity Contract I made then please feel free to reach me at 201812805@fit.edu.ph or voltairedvx@gmail.com and I will try to help you as soon as I can.
-
-
-## Authors
-
-Drennix Guerrero @ 201812805@fit.edu.ph
 
 ## License
 
